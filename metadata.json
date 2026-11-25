@@ -1,0 +1,6 @@
+{
+  "name": "VAULT ZERO",
+  "description": "A daily 3D psychological vault heist against the live Reddit crowd. Pick a vault, drop a decoy, dodge the overcrowd explosion, and decide whether to Split or Steal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
